@@ -1,0 +1,5 @@
+protocolo_id,titulo,conteudo
+PROTO-DM-001,Monitoramento do controle glicêmico,Pacientes com Diabetes Mellitus Tipo 2 devem ter o controle glicêmico acompanhado periodicamente por meio de avaliação clínica e exames laboratoriais. Alterações persistentes devem ser analisadas pelo médico responsável considerando o histórico individual.
+PROTO-DM-002,Avaliação renal,Pacientes com Diabetes Mellitus Tipo 2 devem ser acompanhados quanto à função renal. Exames como creatinina e avaliação de albuminúria podem fazer parte do acompanhamento conforme avaliação médica.
+PROTO-DM-003,Avaliação oftalmológica,O acompanhamento de pessoas com Diabetes Mellitus Tipo 2 pode incluir avaliação oftalmológica periódica para rastreamento de alterações relacionadas à doença.
+PROTO-DM-004,Segurança do assistente clínico,"O assistente virtual deve atuar exclusivamente como ferramenta de apoio à decisão clínica. Não deve emitir diagnóstico definitivo, prescrever medicamentos ou substituir a validação médica."

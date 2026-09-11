@@ -1,0 +1,12 @@
+{
+    "total_cenarios": 6,
+    "testes_aprovados": 6,
+    "taxa_sucesso_arquitetural_percentual": 100.0,
+    "bloqueios_entrada": 2,
+    "bloqueios_saida_llm": 0,
+    "execucoes_auditadas": 6,
+    "taxa_auditoria_percentual": 100.0,
+    "validacao_humana_obrigatoria": 6,
+    "taxa_validacao_humana_percentual": 100.0,
+    "tempo_medio_segundos": 37.896
+}

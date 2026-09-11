@@ -1,0 +1,6 @@
+patient_id,idade,sexo,diagnostico,glicemia_mg_dl,hba1c_percentual,pressao_sistolica,pressao_diastolica,imc,creatinina_mg_dl,colesterol_total_mg_dl,exame_pendente
+PAC001,52,F,Diabetes Mellitus Tipo 2,205,9.2,145,95,31.2,1.0,218,Microalbuminúria
+PAC002,46,M,Diabetes Mellitus Tipo 2,118,6.7,128,82,27.4,0.9,185,Sem exame pendente
+PAC003,63,F,Diabetes Mellitus Tipo 2,172,8.3,138,88,29.8,1.3,201,Fundo de olho
+PAC004,39,M,Diabetes Mellitus Tipo 2,96,5.9,122,78,25.6,0.8,174,Sem exame pendente
+PAC005,58,F,Diabetes Mellitus Tipo 2,238,10.1,154,98,33.5,1.5,243,Avaliação renal
