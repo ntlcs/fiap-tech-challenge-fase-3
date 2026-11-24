@@ -8,6 +8,32 @@ O projeto implementa uma prova de conceito acadêmica de um assistente virtual d
 
 ---
 
+## Entrega final — Tech Challenge Fase 3
+
+Todos os materiais do projeto estão centralizados nos links abaixo.
+
+| Entregável | Acesso |
+|---|---|
+| Portal do projeto | [GitHub Pages](https://ntlcs.github.io/fiap-tech-challenge-fase-3/) |
+| Repositório | [GitHub](https://github.com/ntlcs/fiap-tech-challenge-fase-3) |
+| Vídeo demonstrativo | [Assistir no YouTube](https://youtu.be/UhxZ7uDCqbc) |
+| Relatório técnico final | [Acessar PDF](docs/report/Relatorio_Final_Tech_Challenge_Fase_3_FIAP.pdf) |
+| Dataset sintético | [Consultar dados](data/) |
+| Código-fonte modularizado | [Consultar código](src/) |
+| Modelo customizado | [Artefatos LoRA](models/) |
+| Logs de auditoria | [Consultar logs](logs/) |
+| Resultados da validação | [Consultar métricas](docs/report/validation_results/) |
+
+### Vídeo demonstrativo
+
+[![Demonstração do Tech Challenge Fase 3](https://img.youtube.com/vi/UhxZ7uDCqbc/hqdefault.jpg)](https://youtu.be/UhxZ7uDCqbc)
+
+O vídeo apresenta o treinamento da LLM, a arquitetura da solução,
+a execução dos fluxos automatizados, as respostas contextualizadas,
+os mecanismos de segurança e os registros de auditoria.
+
+---
+
 ## Objetivo
 
 Construir um assistente capaz de:
@@ -404,7 +430,36 @@ Entre as principais limitações estão:
 O sistema não deve ser utilizado para tomada autônoma de decisão médica.
 
 ---
+## Perspectivas para ambiente de produção
 
+Como evolução futura da prova de conceito, considera-se:
+
+- FastAPI para disponibilização do assistente por API REST;
+- Docker para isolamento e portabilidade da aplicação;
+- Prometheus para coleta de métricas operacionais;
+- Grafana para visualização de indicadores de desempenho;
+- monitoramento de latência, erros e disponibilidade;
+- monitoramento da qualidade das respostas da LLM;
+- autenticação e autorização por perfil;
+- criptografia e proteção de dados sensíveis;
+- governança e adequação à LGPD.
+
+Esses componentes representam propostas de evolução da arquitetura
+e não fazem parte da implementação desta fase.
+
+---
 ## Autoria
+
+**Natalia da Costa Silva**
+
+- Instituição: FIAP
+- Curso: Pós Tech em Inteligência Artificial para Devs
+- Projeto: Tech Challenge — Fase 3
+- Ano: 2026
+- GitHub: [ntlcs](https://github.com/ntlcs)
+
+---
+
+Projeto desenvolvido exclusivamente para fins acadêmicos.
 
 Projeto desenvolvido para o **Tech Challenge — Fase 3 da Pós Tech FIAP — Inteligência Artificial para Devs**.
